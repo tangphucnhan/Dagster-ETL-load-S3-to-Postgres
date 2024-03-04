@@ -1,0 +1,12 @@
+DB_USER = "pg"
+DB_PWD = "pg"
+DB_HOST = "localhost"
+DB_PORT = "5432"
+DB_NAME = "cafebills"
+
+AWS_REGION_NAME = "regionname"
+AWS_ACCESS_KEY_ID = "accesskey"
+AWS_SECRET_ACCESS_KEY = "secretkey"
+AWS_ENDPOINT_URL = "https://s3.[regionname].amazonaws.com"
+S3_BUCKET = "cafebills"
+S3_PREFIX = "daily/"
