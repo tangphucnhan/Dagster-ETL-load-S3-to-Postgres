@@ -10,7 +10,7 @@ S3 files:
 ![S3 files](images/s3_files.png)
 
 
-Loaded data in warehouse:
+Loaded data in data lake:
 
 ![Loaded to warehouse](images/loaded_data.png)
 
